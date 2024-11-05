@@ -1,4 +1,0 @@
-extraScrapeConfigs:
-  - job_name: 'my-app'
-    static_configs:
-      - targets: ['my-app-service:8000']
